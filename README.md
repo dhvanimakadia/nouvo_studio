@@ -1,0 +1,1 @@
+# nouvo_studio
