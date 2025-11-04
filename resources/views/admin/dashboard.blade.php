@@ -6,6 +6,6 @@
 
 @section('content')
 <div class="container-fluid">
-    <h2>Welcome to Admin Dashboard</h2>
+    <h2>Welcome to Admin Dashboard11111</h2>
 </div>
 @endsection
